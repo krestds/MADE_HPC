@@ -1,1 +1,5 @@
-
+matrix.cpp - C++ code for initializing and multiplication matrix and vector.
+matrix.h - header file for function names
+main.cpp - main file for calculations matrix and vectors with current dimension. 
+Makefile - it's a makefile for static linking and creating executable file. 
+Multiplication results.png - results of time multiplication with different optimization settings.
