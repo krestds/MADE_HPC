@@ -1,6 +1,7 @@
 Meeting_Company.c - Acquaintance in the company by the defoult rule. Start from the 0 processor and game end after N steps.
 Cell_Automata.c - It's a cell automata with realization for rule110 and rule90. In the program we could change rule realization.
 CYCLE = {1, 0} - we have two mode, cycle and linear. 
+Rule110 - picter for the rule 110 in Cell_Automata.c
 
 To start Meeting_Company:
 mpicc Meeting_Company.c -o Meeting_Company.o
